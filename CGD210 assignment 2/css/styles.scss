@@ -1,0 +1,9 @@
+.company-logos {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.company-logos img {
+  max-width: 120px;
+}
